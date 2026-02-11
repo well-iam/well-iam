@@ -54,9 +54,10 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 #### 🦾 Imitation Learning for Bimanual Mobile Manipulation
 *Visiting Researcher @ KTH | Present*
 
-**The Challenge:** Coordinating two arms and a mobile base for deformable objects manipulation.
+**The Challenge:** Coordinating the Unitree G1 Humanoid for Deformable Object Manipulation.
 * **Method:** Investigating **Hybrid Action Spaces** in Imitation Learning to solve long-horizon manipulation tasks.
 * **Context:** Working under the supervision of **Prof. Danica Kragic**.
+<img src="./previews/building_unitree_support.jpeg" width="200" />
 
 ---
 
