@@ -15,14 +15,14 @@
 ### 🚀 About Me
 I'm a Master’s student in **Automation Engineering and Robotics** bridging the gap between **Generative AI** and **Safety**. 
 
--  **Currently working on:** Imitation Learning for Bimanual Mobile Manipulation at **KTH**.
+- 🎯 **Currently working on:** Imitation Learning for Bimanual Mobile Manipulation at **KTH**.
 - 🔭 **Research focus:** Foundation Models for Robotics, Sim-to-Real Transfer, Formal Verification.
 
 ---
 
 ### 🔬 Featured Research & Projects
 
-#### 🤖 A VLM-based Control Framework with Plan Verification
+#### 🤖 A VLM-based Control Framework with Plan Verification - ([repo](link))
 *MSc Thesis Project | Supervisor: Prof. A. Finzi*
 
 **The Challenge:** Enabling robots to handle open-world instructions ("Pick up the object that looks like...") while ensuring safety.
@@ -31,12 +31,15 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 * **Tech:** ROS 2, Python, PDDL, VLM (Gemini Robotics-ER 1.5).
 
 > [!TIP]
-> **Check the Demo:** [Link to your YouTube Video or Repo] 
-> *(Qui inserisci una GIF animata del Franka che si muove)*
+> **Check the Full Video Demo:** [YouTube Video](https://youtu.be/C8rL8y8n__4)
+> 
+> <img src="./vlm_control_framework.gif" width="600" />
 
 <br>
 
-#### 🐕 Dynamic Gait Learning via Reinforcement Learning
+
+
+#### 🐕 Dynamic Gait Learning via Reinforcement Learning - ([repo](link))
 *Advanced Robotics Project | 2025*
 
 **The Challenge:** Training a quadruped robot to execute dynamic gaits in simulation.
@@ -44,7 +47,7 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 * **Result:** Achieved stable bounding gait at **3 m/s** on ANYmal-C model with 42 min estimated autonomy.
 * **Tech:** NVIDIA Isaac Sim, PyTorch, RL.
 
-*(Qui inserisci una GIF dell'ANYmal che corre su Isaac Lab)*
+*![test_text??](./field_and_service_git.gif)*
 
 <br>
 
