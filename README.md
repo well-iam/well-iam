@@ -33,7 +33,7 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 > [!TIP]
 > **Check the Full Video Demo:** [YouTube Video](https://youtu.be/C8rL8y8n__4)
 > 
-> <img src="./vlm_control_framework.gif" width="600" />
+> <img src="./previews/vlm_control_framework.gif" width="600" />
 
 <br>
 
@@ -47,7 +47,7 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 * **Result:** Achieved stable bounding gait at **3 m/s** on ANYmal-C model with 42 min estimated autonomy.
 * **Tech:** NVIDIA Isaac Sim, PyTorch, RL.
 
-*![test_text??](./field_and_service_git.gif)*
+*![test_text??](previews/field_and_service_git.gif)*
 
 <br>
 
