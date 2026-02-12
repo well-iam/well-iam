@@ -39,7 +39,7 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 
 
 
-#### 🐕 Dynamic Gait Learning via Reinforcement Learning - ([repo](link))
+#### 🐕 Dynamic Gait Learning via Reinforcement Learning - ([repo](https://github.com/well-iam/biologically-inspired-anymal))
 *Advanced Robotics Project | 2025*
 
 **The Challenge:** Training a quadruped robot to execute dynamic gaits in simulation.
