@@ -45,7 +45,7 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 **The Challenge:** Training a quadruped robot to execute dynamic gaits in simulation.
 * **Method:** Utilized **Isaac Lab** (NVIDIA) and **Reinforcement Learning** (PPO) to train a locomotion policy.
 * **Result:** Achieved stable bounding gait at **3 m/s** on ANYmal-C model with 42 min estimated autonomy.
-* **Tech:** NVIDIA Isaac Sim, PyTorch, RL.
+* **Tech:** NVIDIA Isaac Lab, PyTorch, RL.
 
 *![test_text??](previews/field_and_service_git.gif)*
 
