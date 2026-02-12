@@ -2,7 +2,7 @@
   
   # Hi! I'm William Notaro 👋
   
-  **Robotics & Embodied AI Researcher**
+  **Robotics & Embodied AI**
   
   Visiting Student Researcher at **KTH Royal Institute of Technology** | Honors Student at **Scuola Superiore Meridionale**
   
