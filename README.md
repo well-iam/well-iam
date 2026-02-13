@@ -1,6 +1,6 @@
 <div align="center">  
 
-  <img src="previews/morricone_scene.gif" width="50%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="previews/morricone_scene.gif" width="55%" style="border-radius: 10px; margin-bottom: 20px;" />
   <p align="center">
     <i>A herd of ANYmal-C robots bounding in Isaac Lab.</i>
   </p>
