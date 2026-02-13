@@ -1,4 +1,9 @@
 <div align="center">  
+
+  <img src="previews/morricone_scene.gif" width="45%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <p align="center">
+    <i>A herd of ANYmal-C robots bounding in Isaac Lab.</i>
+  </p>
   
   # Hi! I'm William Notaro 👋
   
@@ -8,11 +13,6 @@
   
   [![Email](https://img.shields.io/badge/Email-wn.notaro%40gmail.com-red?style=flat-square&logo=gmail)](mailto:wn.notaro@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Notaro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/william-notaro/)
-
-  <img src="previews/morricone_scene.gif" width="45%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p align="center">
-    <i>A herd of ANYmal-C robots bounding in Isaac Lab.</i>
-  </p>
   
 </div>
 
