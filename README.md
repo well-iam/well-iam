@@ -1,6 +1,9 @@
 <div align="center">  
 
-  
+  <img src="previews/morricone_scene.gif" width="52%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <p align="center">
+    <i>A herd of ANYmal-C robots bounding in Isaac Lab.</i>
+  </p>
   
   # Hi! I'm William Notaro 👋
   
