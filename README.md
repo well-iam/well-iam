@@ -28,7 +28,7 @@ I'm a Master’s student in **Automation Engineering and Robotics** bridging the
 
 ### 🔬 Featured Research & Projects
 
-#### 🤖 A VLM-based Control Framework with Plan Verification - ([repo](link))
+#### 🤖 A VLM-based Control Framework with Plan Verification - ([repo](https://github.com/well-iam/vlm-pddl-manipulation))
 *MSc Thesis Project | Supervisor: Prof. A. Finzi*
 
 **The Challenge:** Enabling robots to handle open-world instructions ("Pick up the object that looks like...") while ensuring safety.
